@@ -8,7 +8,7 @@ Nesse projeto foi apresentado de forma simples e direta algumas funcionalidades 
 -`HTML` & `CSS`
 
 ### 📁 Acesso ao projeto
-https://ladingsimplesaluraplus.vercel.app/
+https://alurabook-kappa-eight.vercel.app/
 
 <img src="https://github.com/nestto/alurabook/assets/125527244/8933b850-54b9-4301-b7a8-baccb8da47e3" width="20%">
 
